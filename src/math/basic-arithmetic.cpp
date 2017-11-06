@@ -12,7 +12,7 @@ inline int bitcount(ll a) {
 }
 
 // calculate ceil(a/b)
-// |a|, |b| <= (2^63)-1 (does not dover -2^63)
+// |a|, |b| <= (2^63)-1 (does not cover -2^63)
 ll ceildiv(ll a, ll b) {
     if (b < 0) return ceildiv(-a, -b);
     if (a < 0) return (-a) / b;
