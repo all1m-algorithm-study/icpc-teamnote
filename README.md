@@ -1,5 +1,5 @@
-# team note for ACM-ICPC
-
+# Univ. of Seoul Soon_Army Team Notebook for ACM-ICPC 2017 Deajeon Regional
+Forked from https://github.com/ntopia/icpc-teamnote
 ## Requirements
 
 ```
@@ -16,6 +16,7 @@ make
 
 ## Reference
 
+* https://github.com/ntopia/icpc-teamnote
 * https://github.com/wookayin/teamnote
 * https://github.com/jaehyunp/stanfordacm
 * https://github.com/albusmath/acm-icpc-template
