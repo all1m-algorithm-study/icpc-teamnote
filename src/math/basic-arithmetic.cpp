@@ -62,7 +62,7 @@ ll modpow(ll n, ll k, ll m) {
 ll gcd(ll a, ll b) {
     return b == 0 ? a : gcd(b, a % b);
 }
-
+// s.t. : subject to
 // find a pair (c, d) s.t. ac + bd = gcd(a, b)
 pair<ll, ll> extended_gcd(ll a, ll b) {
     if (b == 0) return { 1, 0 };
